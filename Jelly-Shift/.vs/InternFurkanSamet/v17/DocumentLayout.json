@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|c:\\users\\hp\\desktop\\unity projeler\\jellyshift\\internfurkansamet\\assets\\scripts\\agar.ioscript\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\botspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\botspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\botai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\botai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\aicamscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\aicamscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\agarmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\agarmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\agarname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\agarname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\assets\\scripts\\agar.ioscript\\eat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57985B41-2960-E576-D89F-2F4FD1AD160A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agar.ioscript\\eat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgarName.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\AgarName.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\AgarName.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\AgarName.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\AgarName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:43:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\MenuController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\MenuController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:17:49.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:38:29.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Eat.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\Eat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\Eat.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\Eat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\Eat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:06:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BotSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\BotSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\BotSpawner.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\BotSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\BotSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:59:11.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BotAI.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\BotAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\BotAI.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\BotAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\BotAI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:46:51.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AiCamScript.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\AiCamScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\AiCamScript.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\AiCamScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\AiCamScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:32:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\FoodSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\FoodSpawner.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\FoodSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\FoodSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:35:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgarMove.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\AgarMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agar.ioScript\\AgarMove.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Unity Projeler\\JellyShift\\InternFurkanSamet\\Assets\\Scripts\\Agar.ioScript\\AgarMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agar.ioScript\\AgarMove.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:28:17.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
